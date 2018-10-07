@@ -1,0 +1,62 @@
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+target
+bin
+build
+.factorypath
+.project
+.classpath
+MANIFEST.MF
+ejb-jar.xml
+*.orig
+*.BACKUP.*
+*.REMOTE.*
+*.LOCAL.*
+*.BASE.*
+gen
+br.com.touchtec.term.impl.InternalTerm
+.jsdtscope
+checkpointFastreleaseVeLAB
+laudo-*.pdf
+dynmodules
+hotswap-agent.properties
+.gitignore~
+
+# Jrebel
+rebel.xml
+
+# Sublime
+/sublime-project
+
+# Idea IntelliJ
+.idea
+*.iml
+overlays/
+
+# ECLIPSE
+org.hibernate.eclipse.console.prefs
+com.bea.workshop.common.upgrade.log.xml
+org.maven.ide.eclipse.prefs
+org.eclipse.core.resources.prefs
+org.eclipse.m2e.core.prefs
+org.eclipse.jpt.core.prefs
+org.eclipse.wst.validation.prefs
+org.eclipse.wst.jsdt.*
+org.eclipse.ltk.*
+org.eclipse.jdt.launching.prefs
+org.eclipse.jdt.groovy.core.prefs
+/velab-principal/.settings/org.eclipse.jdt.groovy.core.prefs
+/velab-anClin/.settings/org.eclipse.wst.common.project.facet.core.*
+/velab-comum/.settings/org.eclipse.wst.common.project.facet.core.*
+/velab-others/.settings/org.eclipse.wst.common.project.facet.core.*
+/velab-web-classes/.settings/org.eclipse.wst.common.project.facet.core.*
+org.eclipse.wst.common.component
+org.eclipse.wst.common.project.facet.core.xml
+.settings
+
+# DEPLOYABLES
+!/motion-lis/motion-lis-deployables/domain-tomcat/bin
+!/motion-lis/motion-lis-deployables/domain-tomcat-dev/bin
+motion-lis/motion-lis-deployables/domain-tomcat-dev/bin/my-env-vars
+id_file
